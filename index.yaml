@@ -3,7 +3,7 @@ stacks:
 - default-template: default
   description: Spring Boot using OpenJ9 and Maven
   id: java-spring-boot2
-  image: docker.io/dacleyra/java-spring-boot2:0.3.29
+  image: default-route-openshift-image-registry.apps.dac43.os.fyre.ibm.com/kabanero/java-spring-boot2:0.3.29
   language: java
   license: Apache-2.0
   maintainers:
